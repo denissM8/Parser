@@ -25,3 +25,4 @@ Specific error formater to file
 6) Start .bat file
 7) Open FORMATED_TRANSFERS.csv file and COPY fields
 8) Open Excel file and choose 4xN fields -> than PASTE formated transfers
+9) Delete duplicates
