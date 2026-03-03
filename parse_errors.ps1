@@ -25,7 +25,7 @@ Get-Content $inputFile | ForEach-Object {
     $amount = $matches[1]
     }
 
-    # comment T:30129682:12:7001404
+    # comment
     if ($line -match 'T:(\d+):(\d+):(\d+)') {
 
         $toLogin = $matches[1]
